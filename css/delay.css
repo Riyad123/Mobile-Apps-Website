@@ -1,0 +1,175 @@
+.aa{opacity:0;}
+.aa.animated{opacity:1;}
+.bb{ opacity:0}
+.bb.animated{animation-delay:.3s; opacity:1}
+
+
+.cc{opacity:0}
+.dd{opacity:0;animation-delay:.3s;}
+.ee{opacity: 0; animation-delay:.6s}
+.ff{opacity: 0; animation-delay:.9s}
+.gg{opacity:0; animation-delay:1.2s}
+.hh{opacity:0; animation-delay:1.8s}
+
+
+.ii{opacity:0;}
+.rowOne{opacity:0; animation-delay:.2s}
+.mm{opacity:0; animation-delay:.4s}
+.jj{opacity:0; animation-delay:.7s}
+.kk{opacity:0; animation-delay:1s}
+.ll{opacity:0; animation-delay:1.3s}
+
+
+
+.rowTwo{opacity:0;}
+.nn{opacity:0; animation-delay:.7s}
+.oo{opacity:0; animation-delay:1s}
+.pp{opacity:0; animation-delay:1.3s}
+
+
+
+.qq{opacity:0;}
+.rr{opacity:0; animation-delay:.4s}
+
+
+.ss{opacity:0;}
+.rowThree{opacity:0; animation-delay:.2s}
+.tt{opacity:0; animation-delay:.4s}
+.uu{opacity:0; animation-delay:.7s}
+.vv{opacity:0; animation-delay:1s}
+.ww{opacity:0; animation-delay:1.3s}
+
+
+
+.rowFour{opacity:0;}
+.xx{opacity:0; animation-delay:.7s}
+.yy{opacity:0; animation-delay:1s}
+.zz{opacity:0; animation-delay:1.3s}
+
+
+
+
+.aaa{opacity:0;}
+.bbb{opacity:0; animation-delay:.4s}
+.ccc{opacity:0; animation-delay:.5s}
+.ddd{opacity:0; animation-delay:.7s}
+.eee{opacity:0; animation-delay:.8s}
+.fff{opacity:0; animation-delay:1s}
+.ggg{opacity:0; animation-delay:1.1s}
+
+
+.hhh{opacity:0; animation-delay:.4s}
+.iii{opacity:0; animation-delay:.7s}
+.jjj{opacity:0; animation-delay:1s}
+.kkk{opacity:0; animation-delay:1.3s}
+.mmm{opacity:0; animation-delay:1.6s}
+
+
+
+
+
+
+.nnn{opacity:0;}
+.ooo{opacity:0; animation-delay:.4s}
+.ppp{opacity:0; animation-delay:.7s}
+.qqq{opacity:0; animation-delay:1s}
+.rrr{opacity:0; animation-delay:1.2s}
+.sss{opacity:0; animation-delay:1.4s}
+.aaaa{opacity:0; animation-delay:1.9s}
+.aaab{opacity:0; animation-delay:2.1s}
+.aaac{opacity:0; animation-delay:2.3s}
+.aaad{opacity:0; animation-delay:2.5s}
+.aaae{opacity:0; animation-delay:2.7s}
+.aaaf{opacity:0; animation-delay:2.8s}
+.aaag{opacity:0; animation-delay:3.1s}
+
+@media only screen and (max-width:755px) {
+.aa{opacity:1;}
+.aa.animated{opacity:1;}
+.bb{ opacity:1}
+.bb.animated{animation-delay:.3s; opacity:1}
+
+
+.cc{opacity:1}
+.dd{opacity:1;animation-delay:.3s;}
+.ee{opacity: 1; animation-delay:.6s}
+.ff{opacity: 1; animation-delay:.9s}
+.gg{opacity:1; animation-delay:1.2s}
+.hh{opacity:1; animation-delay:1.8s}
+
+
+.ii{opacity:1;}
+.rowOne{opacity:1; animation-delay:.2s}
+.mm{opacity:1; animation-delay:.4s}
+.jj{opacity:1; animation-delay:.7s}
+.kk{opacity:1; animation-delay:1s}
+.ll{opacity:1; animation-delay:1.3s}
+1
+
+.rowTwo{opacity:1;}
+.nn{opacity:1; animation-delay:.7s}
+.oo{opacity:1; animation-delay:1s}
+.pp{opacity:1; animation-delay:1.3s}
+
+
+
+.qq{opacity:1;}
+.rr{opacity:1; animation-delay:.4s}
+
+
+.ss{opacity:1;}
+.rowThree{opacity:1; animation-delay:.2s}
+.tt{opacity:1; animation-delay:.4s}
+.uu{opacity:1; animation-delay:.7s}
+.vv{opacity:1; animation-delay:1s}
+.ww{opacity:1; animation-delay:1.3s}
+
+
+
+.rowFour{opacity:1;}
+.xx{opacity:1; animation-delay:.7s}
+.yy{opacity:1; animation-delay:1s}
+.zz{opacity:1; animation-delay:1.3s}
+
+
+
+
+.aaa{opacity:1;}
+.bbb{opacity:1; animation-delay:.4s}
+.ccc{opacity:1; animation-delay:.5s}
+.ddd{opacity:1; animation-delay:.7s}
+.eee{opacity:1; animation-delay:.8s}
+.fff{opacity:1; animation-delay:1s}
+.ggg{opacity:1; animation-delay:1.1s}
+
+
+.hhh{opacity:1; animation-delay:.4s}
+.iii{opacity:1; animation-delay:.7s}
+.jjj{opacity:1; animation-delay:1s}
+.kkk{opacity:1; animation-delay:1.3s}
+.mmm{opacity:1; animation-delay:1.6s}
+
+
+
+
+
+
+.nnn{opacity:1;}
+.ooo{opacity:1; animation-delay:.4s}
+.ppp{opacity:1; animation-delay:.7s}
+.qqq{opacity:1; animation-delay:1s}
+.rrr{opacity:1; animation-delay:1.2s}
+.sss{opacity:1; animation-delay:1.4s}
+.aaaa{opacity:1; animation-delay:1.9s}
+.aaab{opacity:1; animation-delay:2.1s}
+.aaac{opacity:1; animation-delay:2.3s}
+.aaad{opacity:1; animation-delay:2.5s}
+.aaae{opacity:1; animation-delay:2.7s}
+.aaaf{opacity:1; animation-delay:2.8s}
+.aaag{opacity:1; animation-delay:3.1s}
+
+    
+    
+    
+}
+
